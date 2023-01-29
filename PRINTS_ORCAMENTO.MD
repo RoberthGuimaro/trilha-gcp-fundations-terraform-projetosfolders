@@ -1,0 +1,1 @@
+## Tendo em vista a base do escopo e como a proposta é apenas o estudo,foi utilizado um valor simbólico para que haja a superação dos valores, assim, possibilitando o estudo dos casos de restrições e aviso. 
